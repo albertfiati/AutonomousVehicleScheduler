@@ -1,6 +1,5 @@
 package com.albertfiati;
 
-import java.util.HashMap;
 import java.util.List;
 
 public class Intersection {
